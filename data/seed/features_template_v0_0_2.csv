@@ -1,0 +1,12 @@
+place,lsoa_code,lsoa_name,imd2019_decile,pop_density_per_km2,pct_under_18,pct_65_plus,pct_social_rent,crime_rate_per_1k,asb_trend_12m,belonging_baseline_source,belonging_baseline_value,high_street_extent_source,lighting_density_per_km,lighting_presence_flag,grime_hotspot_flag,youth_facility_within_800m,charities_active_count,recent_grants_24m_gbp,grant_funding_3y_gbp,pip_index,peer_expected_pip,pip_residual,peer_lift_to_p75,notes
+Accrington,E01000000,Accrington LSOA 1,1.0,2000.0,18.0,12.0,20.0,80.0,-0.1,CLS (SBeNeigh),55.0,,10.0,yes,yes,no,15.0,50000.0,150000.0,,,,,
+Barnsley,E01000001,Barnsley LSOA 2,2.0,2050.0,20.0,15.0,25.0,85.0,-0.05,CLS (SBeNeigh),58.0,,12.0,no,no,yes,18.0,55000.0,160000.0,,,,,
+Burnley,E01000002,Burnley LSOA 3,3.0,2100.0,22.0,18.0,30.0,90.0,0.0,CLS (SBeNeigh),61.0,,14.0,yes,no,yes,21.0,60000.0,170000.0,,,,,
+Grimsby,E01000003,Grimsby LSOA 4,4.0,2150.0,24.0,21.0,20.0,95.0,0.05000000000000002,CLS (SBeNeigh),64.0,,16.0,no,yes,yes,24.0,65000.0,180000.0,,,,,
+Hastings,E01000004,Hastings LSOA 5,5.0,2200.0,26.0,12.0,25.0,100.0,0.1,CLS (SBeNeigh),67.0,,10.0,yes,no,no,27.0,70000.0,150000.0,,,,,
+Hartlepool,E01000005,Hartlepool LSOA 6,6.0,2250.0,18.0,15.0,30.0,105.0,0.15,CLS (SBeNeigh),70.0,,12.0,no,no,yes,15.0,75000.0,160000.0,,,,,
+Keighley,E01000006,Keighley LSOA 7,7.0,2300.0,20.0,18.0,20.0,80.0,0.20000000000000004,CLS (SBeNeigh),73.0,,14.0,yes,yes,yes,18.0,50000.0,170000.0,,,,,
+Rotherham,E01000007,Rotherham LSOA 8,8.0,2350.0,22.0,21.0,25.0,85.0,0.25,CLS (SBeNeigh),55.0,,16.0,no,no,yes,21.0,55000.0,180000.0,,,,,
+Scunthorpe,E01000008,Scunthorpe LSOA 9,9.0,2400.0,24.0,12.0,30.0,90.0,0.30000000000000004,CLS (SBeNeigh),58.0,,10.0,yes,no,no,24.0,60000.0,150000.0,,,,,
+Torquay,E01000009,Torquay LSOA 10,10.0,2450.0,26.0,15.0,20.0,95.0,0.35,CLS (SBeNeigh),61.0,,12.0,no,yes,yes,27.0,65000.0,160000.0,,,,,
+Wrexham,E01000010,Wrexham LSOA 11,1.0,2500.0,18.0,18.0,25.0,100.0,0.4,CLS (SBeNeigh),64.0,,14.0,yes,no,yes,15.0,70000.0,170000.0,,,,,
