@@ -3,6 +3,10 @@
 
 # xPIP Uplift Engine — MVP v0.0.2
 
+Slides:
+
+https://docs.google.com/presentation/d/1c1icu7oGP3CPz8ysqedPj2kunHPgGwNa2bkf5SxJVqI/edit?usp=sharing
+
 **xPIP** (experimental *Pride in Place* uplift engine) is a lean, explainable recommender for local action.  
 It ingests small-area context (LSOA-level) for the **75 Plan for Neighbourhoods towns**, builds a simple
 **as‑is nowcast** and a compact **PIP index**, then recommends **three practical interventions** (lighting upgrades,
